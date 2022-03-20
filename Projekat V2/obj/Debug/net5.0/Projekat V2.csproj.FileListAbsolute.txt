@@ -1,0 +1,118 @@
+E:\Web\Projekat V2\bin\Debug\net5.0\appsettings.Development.json
+E:\Web\Projekat V2\bin\Debug\net5.0\appsettings.json
+E:\Web\Projekat V2\bin\Debug\net5.0\Projekat V2.exe
+E:\Web\Projekat V2\bin\Debug\net5.0\Projekat V2.deps.json
+E:\Web\Projekat V2\bin\Debug\net5.0\Projekat V2.runtimeconfig.json
+E:\Web\Projekat V2\bin\Debug\net5.0\Projekat V2.runtimeconfig.dev.json
+E:\Web\Projekat V2\bin\Debug\net5.0\Projekat V2.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\ref\Projekat V2.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Projekat V2.pdb
+E:\Web\Projekat V2\bin\Debug\net5.0\Humanizer.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Web\Projekat V2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.csproj.AssemblyReference.cache
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.AssemblyInfoInputs.cache
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.AssemblyInfo.cs
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.csproj.CoreCompileInputs.cache
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.MvcApplicationPartsAssemblyInfo.cs
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.MvcApplicationPartsAssemblyInfo.cache
+E:\Web\Projekat V2\obj\Debug\net5.0\staticwebassets\Projekat V2.StaticWebAssets.Manifest.cache
+E:\Web\Projekat V2\obj\Debug\net5.0\staticwebassets\Projekat V2.StaticWebAssets.xml
+E:\Web\Projekat V2\obj\Debug\net5.0\scopedcss\bundle\Projekat V2.styles.css
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.RazorTargetAssemblyInfo.cache
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.csproj.CopyComplete
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.dll
+E:\Web\Projekat V2\obj\Debug\net5.0\ref\Projekat V2.dll
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.pdb
+E:\Web\Projekat V2\obj\Debug\net5.0\Projekat V2.genruntimeconfig.cache
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\appsettings.json
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Projekat V2.StaticWebAssets.xml
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Projekat V2.exe
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Projekat V2.deps.json
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Projekat V2.runtimeconfig.json
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Projekat V2.runtimeconfig.dev.json
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Projekat V2.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\ref\Projekat V2.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Projekat V2.pdb
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.AssemblyInfo.cs
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\scopedcss\bundle\Projekat V2.styles.css
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\staticwebassets\Projekat V2.StaticWebAssets.Manifest.cache
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.RazorTargetAssemblyInfo.cache
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.csproj.CopyComplete
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\ref\Projekat V2.dll
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.pdb
+C:\Users\David\OneDrive\Desktop\Projekat V2\obj\Debug\net5.0\Projekat V2.genruntimeconfig.cache
